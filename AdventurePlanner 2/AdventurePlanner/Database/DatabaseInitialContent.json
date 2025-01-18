@@ -1,0 +1,1064 @@
+[
+    {
+        "id": 123214,
+        "wikiDataId": "Q60",
+        "city": "New York City",
+        "name": "New York City",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "New York",
+        "regionCode": "NY",
+        "latitude": 40.7,
+        "longitude": -74.0,
+        "population": 8804190,
+        "destPhotoStructs": [
+            {"photoFullFilename": "NewYorkCity1.jpg", "dateTime": "2023-12-22 at 10:17:12"},
+            {"photoFullFilename": "NewYorkCity2.jpg", "dateTime": "2023-12-23 at 13:12:08"},
+            {"photoFullFilename": "NewYorkCity3.jpg", "dateTime": "2023-12-24 at 19:09:31"}
+        ],
+        "covid":
+        {
+            "checkTime": "2024-04-24 at 21:56:24",
+            "activeCases": "955,872",
+            "country": "USA",
+            "lastUpdate": "2020-05-04 22:00",
+            "newCases": "+21,580",
+            "newDeaths": "+878",
+            "totalCases": "1,209,702",
+            "totalDeaths": "69,476",
+            "totalRecovered": "184,354"
+        },
+        "places":
+        [
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 40.74994359999999,
+                    "lng": -73.9887025
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "name": "Aeromexico Reservations",
+                "photo_reference": "",
+                "price_level": -1,
+                "rating": 2,
+                "user_ratings_total": 4,
+                "vicinity": "112 West 34th Street, New York"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 40.701457,
+                    "lng": -74.009225
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "name": "Saker Aviation Services",
+                "photo_reference": "ATplDJY0LRG5Y7Wl92VBGe46G1NX2WxYvJfqqixNME8q6vIjd-9JnJOkiYPdCBu5mI_PsSJABeBiTiZHUNmKjt7r1hAuvqMZTPkmrKZLRrjrWW_6sMhDCgvExV35ho1ipmq880JQStoVVUZrTxI2qJhGOqJadhtIFmjPz6pSRHHJYL6scGJB",
+                "price_level": -1,
+                "rating": 3.9,
+                "user_ratings_total": 36,
+                "vicinity": "6 East River Greenway, Bikeway"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 40.7579747,
+                    "lng": -73.9855426
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "name": "Times Square",
+                "photo_reference": "ATplDJadFRsi3Up2NPNq8LHxoDVPun3WcyEk3-BU3RrEUSQ-mfVg9dVgQAk2GFiRfQXG4tTETNsCNqCrZ7W_bY7SjXf89IpdTTj86xjTk9OiG9OkNPyLPX6gJp08E9TilxVTFJAIgYBKAYqggS4XInHYZ0N9XP93U3n26g6WXhWdwwRfNXo",
+                "price_level": -1,
+                "rating": 4.7,
+                "user_ratings_total": 213560,
+                "vicinity": "Manhattan"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 40.75997599999999,
+                    "lng": -73.97997719999999
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "name": "Radio City Music Hall",
+                "photo_reference": "ATplDJbTMT0NlYJ8JwYy5GasFUe7m7GcO7FHmidAAJaI9GvlfDEAc_XDl_1OeogWOy0vOWPF9GAp6_-U3y5kgI0Fy57JGZjlpiBMzZpcudDrxNmI4xHQNgBsY2FtfeU0C-80siy4s8elN2xk0TPx3LtEc88w8FV40nFF2g6w3Ky4MCSWsFmf",
+                "price_level": -1,
+                "rating": 4.8,
+                "user_ratings_total": 23615,
+                "vicinity": "1260 6th Avenue, New York"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 40.7055616,
+                    "lng": -74.00718909999999
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Holiday Inn Express New York City-Wall Street, an IHG Hotel",
+                "photo_reference": "ATplDJYVfQrvuFEwaCiXJgBJrEqmhsVoVlER5Hi57AaOQ_yij_WO_5SJMjGq79slDWOb6qQIR3eEfqYcIA2hNyw37PD43KNus5DT4stIle9zZKywht0Yox-dPbI6s2UpHBT1DGY8IxlwzIZi7IdkBcyn9tn3uL-dfwHQ7hWBPnVquWs7KOx6",
+                "price_level": -1,
+                "rating": 3.8,
+                "user_ratings_total": 1068,
+                "vicinity": "126 Water Street, New York"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 40.7051691,
+                    "lng": -74.00802399999999
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Hyatt Centric Wall Street New York",
+                "photo_reference": "ATplDJZ3mzA11NAHkpQJb94wsOmCLuRi01HsXlYfl2T2cYUUY14RDF33FMF5P_ZU88O-jITPjAgbqxYZdpCEyWZS8uwnd8pH2VE722Lol0UxT9aXlPCN-fhQsukA1NZESLNirirPDICYm7XQEqlazCGHcKHZ8oYNRHCHami8yWwUUhNQJygB",
+                "price_level": -1,
+                "rating": 4.3,
+                "user_ratings_total": 1507,
+                "vicinity": "75 Wall Street Entrance On, Water Street, New York"
+            }
+        ]
+    },
+    {
+        "id": 2983191,
+        "wikiDataId": "Q18094",
+        "city": "Honolulu",
+        "name": "Honolulu",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "Hawaii",
+        "regionCode": "HI",
+        "latitude": 21.304694444,
+        "longitude": -157.857194444,
+        "population": 350964,
+        "destPhotoStructs": [
+            {"photoFullFilename": "Honolulu1.jpg", "dateTime": "2024-04-22 at 9:40:34"},
+            {"photoFullFilename": "Honolulu2.jpg", "dateTime": "2024-04-23 at 14:35:44"},
+            {"photoFullFilename": "Honolulu3.jpg", "dateTime": "2024-04-24 at 20:27:31"}
+        ],
+        "covid":
+        {
+            "checkTime": "2024-04-24 at 21:56:24",
+            "activeCases": "955,872",
+            "country": "USA",
+            "lastUpdate": "2020-05-04 22:00",
+            "newCases": "+21,580",
+            "newDeaths": "+878",
+            "totalCases": "1,209,702",
+            "totalDeaths": "69,476",
+            "totalRecovered": "184,354"
+        },
+        "places":
+        [
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 21.3186185,
+                    "lng": -157.9254381
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/airport-71.png",
+                "name": "Daniel K. Inouye International Airport",
+                "photo_reference": "ATplDJZI09zr8eqFoXvCM78D6cl7RAumsEWumALtBk_-Ldtzwl4Meiw1OREtGYrhNQ-eTJf2Kb5HmiiPtJi_ji6uG4ysYMLf_CNJ6QLErMgQg1pz4QPrxparEupOI-gSLOYFqYnhvTypM-pv6_iZ8LLbuSEGajAMz7Dyu_Frd98Y8zHeId9k",
+                "price_level": -1,
+                "rating": 3.9,
+                "user_ratings_total": 10886,
+                "vicinity": "300 Rodgers Boulevard, Honolulu"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 21.2760834,
+                    "lng": -157.8253554
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Hyatt Regency Waikiki Beach Resort And Spa",
+                "photo_reference": "ATplDJa8oQmDzqrI0Z6vNax9egyLETgHYGSTU6iMk8BAxmBlPG4OR33RsvIxGTqr6IDB0XH7itPpcAhz7BeVMoKZdSegKYIOhlq3Dxh9iWtWfzPdSoiiIKPfY0VRCo9k_FVkIhvEMVrSSjAb1JsW0omXNXYCJB6m5lISSmK2fp8ugUXFK6ST",
+                "price_level": -1,
+                "rating": 4.3,
+                "user_ratings_total": 7950,
+                "vicinity": "2424 Kalākaua Avenue, Honolulu"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 21.271847,
+                    "lng": -157.773651
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+                "name": "The Veranda",
+                "photo_reference": "ATplDJbGCp4Wit6lQ-QpzrtSzY_rZpkpBurc8AHDGwbv9EIll1iOyUarpHimAoru2i8HGpAgLolAoQpsrKQCuUrhTpzLKZ9zLo0x-2cOUngR5Z_YdkgnptehY7u6PKuqiUSi3SuOlRLuHKllVqJmMCJEHnYoiU5mycJymsiNm84vF0yKJGNM",
+                "price_level": 3,
+                "rating": 4.6,
+                "user_ratings_total": 118,
+                "vicinity": "5000 Kahala Avenue, Honolulu"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 21.2657981,
+                    "lng": -157.8216482
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "name": "Waikiki Aquarium",
+                "photo_reference": "ATplDJaaXk2OXHYuSKF0YJM77Pnig-DDNULOubcnP7fVygpubjZy7z2tckt538skO26gJ0AY8uTlUpE0JdIE2K_aqrGlwiUUSi-DEE8KhezGT1uceHKs4A1gWCcoHXFkeEtFozgnhhJKLLb0jB8_wsU6P3lAyLYzHxVIYCp-r9pWl3P2ncG5",
+                "price_level": -1,
+                "rating": 3.9,
+                "user_ratings_total": 1277,
+                "vicinity": "2777 Kalākaua Avenue, Honolulu"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 21.3329195,
+                    "lng": -157.8706127
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+                "name": "Bishop Museum",
+                "photo_reference": "ATplDJaBJTe5UCDbbciNmSZLAMHdaQ1bfhPl_KazHnRasa9Nz3dBzuSKE4Ej6-5g2CQ8zzruCnBkrW3KCib0MyDarO2e93YX5cNhodiDhiItTjW08C1rHDKZp6RSm7yvHP0KwK8bsHW5tkdWY__j4wDw7JIE3dHyTACDNWliQS8S7-Cm1wqC",
+                "price_level": -1,
+                "rating": 4.6,
+                "user_ratings_total": 4314,
+                "vicinity": "1525 Bernice Street, Honolulu"
+            }
+        ]
+    },
+    {
+        "id": 126964,
+        "wikiDataId": "Q62",
+        "city": "San Francisco",
+        "name": "San Francisco",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "California",
+        "regionCode": "CA",
+        "latitude": 37.7775,
+        "longitude": -122.416388888,
+        "population": 873965,
+        "destPhotoStructs": [
+            {"photoFullFilename": "SanFrancisco1.jpg", "dateTime": "2022-03-02 at 11:22:16"},
+            {"photoFullFilename": "SanFrancisco2.jpg", "dateTime": "2022-03-03 at 13:58:34"},
+            {"photoFullFilename": "SanFrancisco3.jpg", "dateTime": "2022-03-04 at 17:31:46"}
+        ],
+        "covid":
+        {
+            "checkTime": "2024-04-24 at 21:56:24",
+            "activeCases": "955,872",
+            "country": "USA",
+            "lastUpdate": "2020-05-04 22:00",
+            "newCases": "+21,580",
+            "newDeaths": "+878",
+            "totalCases": "1,209,702",
+            "totalDeaths": "69,476",
+            "totalRecovered": "184,354"
+        },
+        "places":
+        [
+            {
+                "business_status": "CLOSED_TEMPORARILY",
+                "location": {
+                    "lat": 37.7781667,
+                    "lng": -122.4151667
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Hotel Whitcomb",
+                "photo_reference": "ATplDJajTN1OdeKvYXWnmqXJ4RK5S_DCZoR6HJ3lZCz9obdSapydBW9HZsGsdqS3UqiDxBwV0Bgltx98eIlKCv1KWAQzgJ46OlmMPixxJAFHyCJ40Wxy4ueCjoJNpIUHYul4c3nmigN39tPihnzexk0ZMnzWzvuIt2hq1U19xRSWVeJ5qoCy",
+                "price_level": -1,
+                "rating": 3.3,
+                "user_ratings_total": 3108,
+                "vicinity": "1231 Market Street, San Francisco"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 37.7804985,
+                    "lng": -122.4120378
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Aida Plaza Hotel",
+                "photo_reference": "ATplDJZoIQikjAfQbUvsa1A-foopxtit4Qc2CL9B5plfGgeaLR2cVqM1aUYh0V9YC77upqlAiTEm1F4ToDVTPFaN_A839S4YmXz-Z7VQQqN_2jZTXILSq-y60AZlHlc9e1OJef_6VUxc-tqJhU5F3kO_Yq5q6KEfrPF2Bv7Y735DCuwCB7bG",
+                "price_level": -1,
+                "rating": 3,
+                "user_ratings_total": 449,
+                "vicinity": "1087 Market Street, San Francisco"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 37.7923897,
+                    "lng": -122.4104443
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Fairmont San Francisco",
+                "photo_reference": "ATplDJZnMOuCQdFjorepNkFPgRuaj8TtWvnVPeJvKhf77wosaG6OFQtrskmk4yUXSUf6D0rEa_w2K9Dbjin2bL5C01yZrjUxGJiL7lg-HRleEK461y9f87VYaF8KceW3EP-91pk9BFEyMnnwhhACOwoZHYwJB0saES0Y8yoWzJbfd6UdifVL",
+                "price_level": -1,
+                "rating": 4.5,
+                "user_ratings_total": 6376,
+                "vicinity": "950 Mason Street, San Francisco"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 37.7991021,
+                    "lng": -122.4081675
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+                "name": "The Stinking Rose",
+                "photo_reference": "ATplDJbIAiy5UUQEIP-hXXlo7CnZyQahogOWOrPkyt4V8fkaKKsWPatGnwTdovoz061hYKbG2iMUL155ECOONEaYz-tabeboIrr3khVPZWkslRzrTnfd0YCuRHTF3peivWnWoUFjqfqyglWr1P8VF-fFR-Gt-4KEUV7h6h03RD_uULsS1PsI",
+                "price_level": 3,
+                "rating": 4.2,
+                "user_ratings_total": 3982,
+                "vicinity": "430 Columbus Avenue, San Francisco"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 37.8016649,
+                    "lng": -122.397348
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+                "name": "Exploratorium",
+                "photo_reference": "ATplDJYzzpvQu_gAu4MHkv1o_Td0Z71RRENG6cXCmoYJvqZ-KTvAQtZDEbFp5MOvs0yt2Kv62D9Z3HPnNExeVnXrrW0YqNCGF5Q_q4FwCLvC0Q08GMNhinnyPOQR1anYwM2FH4Fc2ZW9FBnFciKNSUS9nezDffjQJGF4Z070q-cc2jxiqw8Q",
+                "price_level": -1,
+                "rating": 4.7,
+                "user_ratings_total": 8000,
+                "vicinity": "Pier 15 Embarcadero at, Green Street, San Francisco"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 37.8013783,
+                    "lng": -122.4586431
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+                "name": "The Walt Disney Family Museum",
+                "photo_reference": "ATplDJZSTb-SaQ6rU9SITzPDqVLGT7p3bOuV_XHOiw8ovxwu7Vpq80eWEsR6te6yaAIROYueCg8RrRKUCLNOXJYghacbprfvbvCNMvx0viHGDpni3DmnFixWTpzdiQrR_k_xE0Dm9kwZJZ5mQzBjsiuiQ-Wfn6JNZ4xoaPaQXQoqYs1ruu5p",
+                "price_level": -1,
+                "rating": 4.6,
+                "user_ratings_total": 3518,
+                "vicinity": "104 Montgomery Street, San Francisco"
+            }
+        ]
+    },
+    {
+        "id": 126373,
+        "wikiDataId": "Q16552",
+        "city": "San Diego",
+        "name": "San Diego",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "California",
+        "regionCode": "CA",
+        "latitude": 32.715,
+        "longitude": -117.1625,
+        "population": 1386932,
+        "destPhotoStructs": [
+            {"photoFullFilename": "SanDiego1.jpg", "dateTime": "2022-07-15 at 15:41:26"},
+            {"photoFullFilename": "SanDiego2.jpg", "dateTime": "2022-07-15 at 18:47:29"},
+            {"photoFullFilename": "SanDiego3.jpg", "dateTime": "2022-07-16 at 19:26:03"}
+        ],
+        "covid":
+        {
+            "checkTime": "2024-04-24 at 21:56:24",
+            "activeCases": "955,872",
+            "country": "USA",
+            "lastUpdate": "2020-05-04 22:00",
+            "newCases": "+21,580",
+            "newDeaths": "+878",
+            "totalCases": "1,209,702",
+            "totalDeaths": "69,476",
+            "totalRecovered": "184,354"
+        },
+        "places":
+        [
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 32.7090645,
+                    "lng": -117.1709366
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "name": "Seaport Village",
+                "photo_reference": "ATplDJZx2PMxFdvgrWpwh34o9CHwcF_-f9Kb5UppeFiKTHFuipOks_XcL6T9_Q0hDMGBUBJJ0Ym5moCHVEPPyVs4PCSEvdeEy1oxuFd3bKFHaZaqwG_utErZ1KCTynWwVtle0ER8Fhyv6l5MiAsUXfcg0zwX_AFWtpZz-QJSp4FPZ8ORKiox",
+                "price_level": 2,
+                "rating": 4.6,
+                "user_ratings_total": 27643,
+                "vicinity": "849 West Harbor Drive, San Diego"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 32.7341479,
+                    "lng": -117.144553
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+                "name": "Balboa Park",
+                "photo_reference": "ATplDJb7NWtwHnwUplFHflk77SSpFJxG_9Th0cwX3qwalBO0q-Ty_q8saELZcIMvHv_yLxiJ8M9SK6g_bQ9Ao7PuvLFPx0bnfG4nX3kGuEvdH8I1pRuJD2NEQDjj3MVLq1z6AH78yFR4Vp-n965DuU-ZdEXpAZa___CWMYW9pHHz9-XpHKke",
+                "price_level": -1,
+                "rating": 4.8,
+                "user_ratings_total": 71956,
+                "vicinity": "San Diego"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 32.6929009,
+                    "lng": -117.1761522
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "photo_reference": "ATplDJZ-3Kxh4VUjzjmBSHgJaZkfcJA4n0o-op80CdjIhGQMdH0iVGB5x1xVbVzHyou4QG_4DKZ2QTSuga_5aNmInQwV9wBvhiivHcDjDDTprkSIJ_j587qH6t6JqsWvWr5uTYYK0CYBXixWrUgq2pPv3M7JkuacmKusWwoODPinZrqSZ4y7",
+                "price_level": -1,
+                "rating": 4.7,
+                "user_ratings_total": 300,
+                "vicinity": "520 Orange Avenue, Coronado"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 32.7685992,
+                    "lng": -117.1480084
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                "photo_reference": "ATplDJbRwd2H8QJ6vvuzT4Yq3ikL3OAvi7Pov8Vs9fxjJVFNn6vseJjESKPXrlBGEAy15y_UPytmlDxy1oD9PUUzFGcApqkMZJOKRAjhgJREQ-DxZeKYrAZLVk9jfU7wxUl3yxnNG0cWbAee75F_KIlOSorJbXYl_hUItVSk076k9tVfw6Iu",
+                "price_level": -1,
+                "rating": 4.3,
+                "user_ratings_total": 13708,
+                "vicinity": "1640 Camino Del Rio North, San Diego"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 32.70400879999999,
+                    "lng": -117.1576613
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Hilton San Diego Bayfront",
+                "photo_reference": "ATplDJZ45XNis5N1RkIQdPZdhCIWSwbswS2GfuF4tW7_R5MNlwBaikolVwtaBFrx_QybA4BN_5K6t9noGnMKc8_NLgMULze-0wh-qkLOygnfTT4q5om9m9WOmEGEX2Cn3AkgQTfhe8N3-OzdTkdLgsJe5C45bTsrf_JlDxGtsGLG-2JHKzLE",
+                "price_level": -1,
+                "rating": 4.3,
+                "user_ratings_total": 7975,
+                "vicinity": "1 Park Boulevard, San Diego"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 32.71458139999999,
+                    "lng": -117.1631935
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "photo_reference": "ATplDJYI7fDTds0ZMQvpYiW-pOv7ff1UpuIknHRy5hunRBQ3FXIiPaST1cl5WrV7qLuoUy2sQgZv-MOBi5S7yV__u2tV3IPOhBmpO7TKfQfzIQ-mPLs7mOxNWpTXTBJXEXD7CqBZsIbbLoHEoq4Si-Uy46YbcGpAC5GPjNTiLdIxdVVe-SEu",
+                "price_level": -1,
+                "rating": 4.4,
+                "user_ratings_total": 2185,
+                "vicinity": "910 Broadway Circle, San Diego"
+            }
+        ]
+    },
+    {
+        "id": 113920,
+        "wikiDataId": "Q61",
+        "city": "Washington",
+        "name": "Washington",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "District of Columbia",
+        "regionCode": "DC",
+        "latitude": 38.89511,
+        "longitude": -77.03637,
+        "population": 689545,
+        "destPhotoStructs": [
+            {"photoFullFilename": "Washington1.jpg", "dateTime": "2023-10-08 at 8:03:49"},
+            {"photoFullFilename": "Washington2.jpg", "dateTime": "2023-10-09 at 13:35:25"},
+            {"photoFullFilename": "Washington3.jpg", "dateTime": "2023-10-10 at 14:38:08"}
+        ],
+        "covid":
+        {
+            "checkTime": "2024-04-24 at 21:56:24",
+            "activeCases": "955,872",
+            "country": "USA",
+            "lastUpdate": "2020-05-04 22:00",
+            "newCases": "+21,580",
+            "newDeaths": "+878",
+            "totalCases": "1,209,702",
+            "totalDeaths": "69,476",
+            "totalRecovered": "184,354"
+        },
+        "places":
+        [
+            {
+                "business_status": "OPERATIONAL",
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Kimpton Hotel Monaco Washington DC",
+                "photo_reference": "ATplDJY84RO0uJOlhBg0pGsrnrgDGPqXzWldVFK4Y1DmAkCDyU0r26t4-3CrorQwoGSJzoFKkJsRFtvX1BFIIaCd1tBSZw6qSw8DZJGBzuOdbucRGu3uEghF1nvNxzna3dEq7tEQOpVIzWdoH772mFLmS8L1PvaKzIJR-AvghlTdKi5AcG7a",
+                "price_level": 3,
+                "rating": 4.3,
+                "user_ratings_total": 1332,
+                "vicinity": "700 F Street Northwest, Washington"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 38.9059541,
+                    "lng": -77.03683029999999
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "icon_background_color": "#909CE1",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                "name": "The Jefferson, Washington, DC",
+                "photo_reference": "ATplDJbHQuOPWG9TXj2Z5wNmMWvf09z4CYeCSbcHNoUQgG9ZTW0C-oLaSj_R7BQKIZFlZWBY7qARGPbCBosN-G13hMOV1Z4Dw4oAjm7b64vz_w9JYcvwuzPBGfEqMjjJ_VbIJ-OOv8iZkqbHKSos-lvdmOTBGnsD5LnEIP3xQqUIEV-FC5Gw",
+                "price_level": 4,
+                "rating": 4.7,
+                "user_ratings_total": 647,
+                "vicinity": "1200 16th Street Northwest, Washington"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 38.90763099999999,
+                    "lng": -77.0456037
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Hotel Madera",
+                "photo_reference": "ATplDJYSMP_GpFlE7wwNMIY5d87eByk69uTAk252mJshBqbqPPNAJxwh5O2-kWJs4xCpVJUd9oLg-tW14KUN-yM4lpiIjU6A-TDgTijPZAlEUODPBIlS7QTlheS2A74-DqwQy36_pgqk1AY2kW-kW4lXb3PIuCl1T66kvcGkYuiymxVmNeKw",
+                "price_level": 2,
+                "rating": 4.2,
+                "user_ratings_total": 746,
+                "vicinity": "1310 New Hampshire Avenue Northwest, Washington"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 38.948351,
+                    "lng": -77.04492660000001
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "photo_reference": "ATplDJbZ5eT1cOZAM6E7VKtlqmxtrGmjbqhKxCjzzCf8PIOVeqY18npbvdQ9VcOkUnnFCeYbJupk05Zxsa7l8uqk-DuHV0vYLJpZVoig-uIzdWulcr3XnIvvVJ2ReJ_fRN3ABBo04NYLkvqNTPknmPfBZEVrNmMIvmtCAh25bxziZQRkx_rF",
+                "price_level": -1,
+                "rating": 4.8,
+                "user_ratings_total": 119,
+                "vicinity": "Washington"
+            },
+            {
+                "business_status": "CLOSED_TEMPORARILY",
+                "location": {
+                    "lat": 38.8887861,
+                    "lng": -77.0260229
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+                "name": "Smithsonian Castle",
+                "photo_reference": "ATplDJavzoU8graODzl6biwgE5iMANtH1K47jcW80D5lajpGJ6qZs4xQOjBHygD-mb8Gk7pMit95y5G_KIhgVnA27jZoub9HLW9EUX_GvLhHW0B-2DBAcN-v9tEvUPO_g8tGaqIepOgFKn7jaZUfv-P9nzFvl26byTwspAzsDLG5WRWxTv_7",
+                "price_level": -1,
+                "rating": 4.5,
+                "user_ratings_total": 919,
+                "vicinity": "1000 Jefferson Drive Southwest, Washington"
+            }
+        ]
+    },
+    {
+        "id": 144571,
+        "wikiDataId": "Q90",
+        "city": "Paris",
+        "name": "Paris",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "Île-de-France",
+        "regionCode": "IDF",
+        "latitude": 48.856666666,
+        "longitude": 2.352222222,
+        "population": 2145906,
+        "destPhotoStructs": [
+            {"photoFullFilename": "Paris1.jpg", "dateTime": "2021-05-11 at 7:44:05"},
+            {"photoFullFilename": "Paris2.jpg", "dateTime": "2021-05-12 at 11:56:22"},
+            {"photoFullFilename": "Paris3.jpg", "dateTime": "2021-05-13 at 17:03:02"}
+        ],
+        "covid":
+        {
+            "checkTime": "2024-04-24 at 21:56:24",
+            "activeCases": "92,890",
+            "country": "France",
+            "lastUpdate": "2020-05-04 11:58",
+            "newCases": "+769",
+            "newDeaths": "+306",
+            "totalCases": "169,462",
+            "totalDeaths": "25,201",
+            "totalRecovered": "51,371"
+        },
+        "places":
+        [
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 48.8282797,
+                    "lng": 2.4330972
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+                "name": "Bois de Vincennes",
+                "photo_reference": "ATplDJayf3yJOaodJum-0JRy04kV2SuNAwvzeK0dNx82A-Ib9p5w6dIn8CsC3Flgo_eIP8C6fkJ2mVD95bWzsdisEbSC3H7n4WrOIgJyySIEP8lY_7JWD57T8YAPDoXzUurYXEkLRA5Wjq7HOvvL1BVsJplu-L4hIJFW0ri8vOJHLf5OeJo_",
+                "price_level": -1,
+                "rating": 4.5,
+                "user_ratings_total": 39376,
+                "vicinity": "Route de la Pyramide, Paris"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 48.8626413,
+                    "lng": 2.2969258
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "name": "Passerelle Debilly",
+                "photo_reference": "ATplDJZiF1FntTzaWTgMFLnKwS1cctKbgyAMp-XuauJaifeimZ9P4VzV_EK8YzDNk8WbIxGYHgRyh1K2Wa4DXYWEUuYDKowGfna8-jCiYUjqYpcac9G072fa4TrA27r7lQhDF-u6KQfYM9xp25wuHGs3HrFajdxcbgZnbQJqV58fL-37h0pa",
+                "price_level": -1,
+                "rating": 4.6,
+                "user_ratings_total": 2766,
+                "vicinity": "Passerelle Debilly, Paris"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 48.8719682,
+                    "lng": 2.2978942
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Hotel Vernet, Champs - Élysées","photo_reference": "ATplDJaGCcl1dNoa0XIXoZfDitudxYAu9jo9cAOeXuSbv7hiy06JzLJU_SrhJ1vTxUj5X0I63z88FFVnLNv3r3SLY1W4KA9FE65pWulFU5Nfh00asAC-I-DtPXneid_6SJ79TYuZxxQDUizwa2OfbwqZWU3BbOrJLDmaLO8yWfWqAUTi6Ks",
+                "price_level": -1,
+                "rating": 4.5,
+                "user_ratings_total": 327,
+                "vicinity": "25 Rue Vernet, Paris"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 48.8567203,
+                    "lng": 2.3278538
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Hotel Montalembert",
+                "photo_reference": "ATplDJYnuBap1KiwKoGt5YYop0IB2Pk1ShZGTiWdt0W7tDLPWHScs27KmC-t7og7LfjxO-1OOBNx9138urKIYyEPVVasPxD0N3USBwsK1vwUNtINXVjelB4lZ_5SFYdlFIFmTSWwauXIwvAf_9sZHuBALWh2XfHM_VMnMqIL4a2FCAUMZv0O",
+                "price_level": -1,
+                "rating": 4.7,
+                "user_ratings_total": 221,
+                "vicinity": "3 Rue de Montalembert, Paris"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 48.8823727,
+                    "lng": 2.3395332
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+                "name": "Academy Des Nouveaux Sports",
+                "photo_reference": "ATplDJbRnuMKOQ_TH2b1VnbClclkTa1qs14jtaL55o0S_xjNue1ivL_YpZs77zn-7fqKy7srgUHWO2709_xvv3QM5cseYXmyRUtQRFLnwPRqN_Hgf_W0B9xCCalSV5gdMfKN-n-0Afhvftp_DPz8mz3Wvtg8UTJhCnlPbowu05JcguXi8tA8",
+                "price_level": -1,
+                "rating": 4.7,
+                "user_ratings_total": 7,
+                "vicinity": "71 Rue des Martyrs, Paris"
+            }
+        ]
+    },
+    {
+        "id": 3708105,
+        "wikiDataId": "Q220",
+        "city": "Rome",
+        "name": "Rome",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": "Lazio",
+        "regionCode": "62",
+        "latitude": 41.893055555,
+        "longitude": 12.482777777,
+        "population": 2748109,
+        "destPhotoStructs": [
+            {"photoFullFilename": "Rome1.jpg", "dateTime": "2023-07-27 at 10:38:16"},
+            {"photoFullFilename": "Rome2.jpg", "dateTime": "2023-07-28 at 12:43:49"},
+            {"photoFullFilename": "Rome3.jpg", "dateTime": "2023-07-29 at 20:31:29"}
+        ],
+        "covid":
+        {
+            "checkTime": "2024-04-24 at 21:56:24",
+            "activeCases": "99,980",
+            "country": "Italy",
+            "lastUpdate": "2020-05-04 15:59",
+            "newCases": "+1,221",
+            "newDeaths": "+195",
+            "totalCases": "211,938",
+            "totalDeaths": "29,079",
+            "totalRecovered": "82,879"
+        },
+        "places":
+        [
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 41.9020095,
+                    "lng": 12.4465143
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/airport-71.png",
+                "name": "Vatican City Heliport",
+                "photo_reference": "ATplDJZx-ZN1adalOJypZgsU4Dg8CbYvc9icBw6Z9F-esq1qloTAUdPC9yo_As85jWWmF4InEbwafWP-MW6mSe68qISaFTX5mcaa0toR2bCJtTZGuLIr00s2tGkR-Fi1QlFGq54Rg4vkL8PmLFf4Al-grHOGiRduTVWno8eyRGxwe0--fIyb",
+                "price_level": -1,
+                "rating": 4.7,
+                "user_ratings_total": 61,
+                "vicinity": ""
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 41.9523124,
+                    "lng": 12.5049966
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/airport-71.png",
+                "name": "Roma Urbe Airport",
+                "photo_reference": "ATplDJYg93RFcJYu0b3m524WKMSs4COZ1ss7A6VuCU1bPs3rpl-dC-AAHKy7FIxiC_BK7uwjbj5KsKSqHxaFN1ks8GWYJYJHpSMfwgxUEB9ITcguJPo0U9SSKclDv8Bo2GA5kXj2fNkPApDouJ707T0J_HfgIS5EQOQXdcdMC0U5m9Auvqh5",
+                "price_level": -1,
+                "rating": 4.3,
+                "user_ratings_total": 215,
+                "vicinity": "Via Salaria, 825, Roma"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 41.8967835,
+                    "lng": 12.4841305
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Cosmopolita Hotel Rome, Tapestry Collection by Hilton",
+                "photo_reference": "ATplDJaGXXTUD7-vGexSidWGrKm5VE3lxMc3nDYF3UZsc5PGrJI5cS63BppDuCZGc5lXq8da1DxxRNeaYBcsBSQcXxo6L4n86AWaPUjTabN9MkC4T9uPZqXVUBysjbGwK3yGdzyrDxGmhGKLCQxIkE9T08UrhpwvxPXZhC9hCTesy4qClfR-",
+                "price_level": -1,
+                "rating": 4,
+                "user_ratings_total": 779,
+                "vicinity": "Via di S. Eufemia, 5, Roma"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 41.888658,
+                    "lng": 12.4801767
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "name": "Cloaca Maxima",
+                "photo_reference": "ATplDJbleFtBDujTRdbkH6NHHL4ghquiUA4OPsejXB9t9_4CTy2R-DRrio6OvLEP0QGMr5acswoKPqklzYjXy8ZFDnyuVN1LXlq40Q4jeZsEOPtEQTv6duZqxrINtlCLrAjnJiQ3uJq1m5HTl8bCYR-4-OvLWjcnWSDws1wR78NAmaq4V5ET",
+                "price_level": -1,
+                "rating": 3.9,
+                "user_ratings_total": 103,
+                "vicinity": "Via del Velabro, 3, Roma"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 41.902953,
+                    "lng": 12.454456
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "name": "The Last Judgment",
+                "photo_reference": "ATplDJYUeoTXMGE1eWObjIWImqOia5lxw-48lrfQcLtHYE7_O7A_UABf3PPgJpAyckB_XsBrAZSXmzAecOfmJabce5AS8ducq03htz1ipxb09f5qvOFPQLd3KG0GbxyD-FE5GoaZTrbI3T8Rg-HDgbL9RJYoWEtD1Ej8PQxtqqu6R9pHK5AL",
+                "price_level": -1,
+                "rating": 4.7,
+                "user_ratings_total": 284,
+                "vicinity": "00120 Città del Vaticano VA"
+            }
+        ]
+    },
+    {
+        "id": 45633,
+        "wikiDataId": "Q84",
+        "city": "London",
+        "name": "London",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "region": "England",
+        "regionCode": "ENG",
+        "latitude": 51.507222222,
+        "longitude": -0.1275,
+        "population": 8799728,
+        "destPhotoStructs": [
+            {"photoFullFilename": "London1.jpg", "dateTime": "2024-02-17 at 11:26:59"},
+            {"photoFullFilename": "London2.jpg", "dateTime": "2024-02-18 at 13:28:05"},
+            {"photoFullFilename": "London3.jpg", "dateTime": "2024-02-19 at 17:49:35"}
+        ],
+        "covid":
+        {
+            "checkTime": "2024-04-24 at 21:56:24",
+            "activeCases": "161,506",
+            "country": "UK",
+            "lastUpdate": "2020-05-04 02:57",
+            "newCases": "+3,985",
+            "newDeaths": "+288",
+            "totalCases": "190,584",
+            "totalDeaths": "28,734",
+            "totalRecovered": "N/A"
+        },
+        "places":
+        [
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 51.5395226,
+                    "lng": -0.1606499
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+                "name": "Primrose Hill",
+                "photo_reference": "ATplDJZKNZEzK5ev-PovCvvbUyKDf_OKsetkyqny38OQqP2FWeWjX-3UHjuGqTeoSolnNdnvXu02nZnvgp8YM1aW73MuJNFsT6fVgk7Ir4ex99qbGd--A3pSpHuqM4Opk3-8SN9fQGnUVlFBXGyK61_YblTrp9Jl1j367kdzTl8ULigOur4y",
+                "rating": 4.7,
+                "user_ratings_total": 13090,
+                "vicinity": "Primrose Hill Road, London"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 51.5054188,
+                    "lng": -0.1259695
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "name": "Old War Office Building",
+                "photo_reference": "ATplDJZYbFwv8SNENFqVuzrTvgLK1yXCopcQUwfIcSaGYZfHjGdSPnmWJO06HuHOBZFmQslByqFjU94W86PfMlqgtgTL-FcNqhFzBkqXomDMXggiaq41wU1VAV48Ucy7zDPSCTugoDTV3ZWKASuOrjjikmoCxOq-UclEL-EuIcvDK1BuVSCq",
+                "price_level": -1,
+                "rating": 4.6,
+                "user_ratings_total": 409,
+                "vicinity": "Whitehall, London"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 51.5084092,
+                    "lng": -0.124743
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "The Clermont London, Charing Cross",
+                "photo_reference": "ATplDJbuFiiKnW9pI_zLOc1NlPA2YwJUHs4lBrOMgRvJhLkQ7V7gbj25ldW2dONC9azldBLfwrjy8oVOFbVx2HW9ylkG3_be4yhh5yiFVsSB8AssrF-80I9F0G4Hz05Tnri9Q8b7SyAYFl3cBwXKLLF3W-dzWrVt41HaG5Mi6KQ-OQihDTW-",
+                "price_level": -1,
+                "rating": 4.5,
+                "user_ratings_total": 2507,
+                "vicinity": "Strand, London"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 51.50646030000001,
+                    "lng": -0.1243126
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Corinthia London",
+                "photo_reference": "ATplDJadVjElqClG8qznHg4K7NqOMeiinqE4GWE_c0N2e17PfLoDomuMUI635Py0gatOmGovRTyJzaE7oa8m-xY2uClCN0iiyB6PAc2v6TuNfUvskvKuEhVQ8NJl9N4vhddi6cbmKjesGTPhSHtbYcMHiCUOURcitzIgH9DeHyx1KFQS8MTc",
+                "price_level": -1,
+                "rating": 4.7,
+                "user_ratings_total": 2978,
+                "vicinity": "Whitehall Place, London"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 51.46957039999999,
+                    "lng": -0.1791253
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/airport-71.png",
+                "name": "London Heliport",
+                "photo_reference": "ATplDJbUIczos4JnEHCS3Kc7NPnFuv6zj-UB_SjixCMAz74dhrky0TZL6z7svz-7LfzVk_neIVgp4vtOlP7--_Cc3yEYI76Kf5id_YaNt4wIi0wpk-iDvGe3G5iRUv_kfYnSq3dCDze_9_jBLB1VWGpZ2x9u8N7p8SG3TXCEjmtGJvJZPvlO",
+                "price_level": -1,
+                "rating": 4.1,
+                "user_ratings_total": 46,
+                "vicinity": "The POD Building, Bridges Court Road, London"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 51.5586105,
+                    "lng": -0.07455300000000001
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "name": "Sam’s Cars Limited",
+                "photo_reference": "ATplDJbNcwQd4NdRYvcUEcUXQVf_HnMm5kesFoFxKIJQC5D_4mbC8fz4esizKUOHbAL8J_CG3kjw_Ve-CFSQVh8t4R6auEGHPz3m6SjSp7REWH_YqNa6sxaga_LV-S0kYMSeRBzCXxD-bzm3ofTFZ-mJ0elEsDMeOKwBmlDKjU085RaaZ6Nc",
+                "price_level": -1,
+                "rating": 3.6,
+                "user_ratings_total": 293,
+                "vicinity": "51 Stoke Newington High Street, London"
+            }
+        ]
+    },
+    {
+        "id": 3705817,
+        "wikiDataId": "Q1490",
+        "city": "Tokyo",
+        "name": "Tokyo",
+        "country": "Japan",
+        "countryCode": "JP",
+        "region": "Tokyo",
+        "regionCode": "13",
+        "latitude": 35.689444444,
+        "longitude": 139.691666666,
+        "population": 14264798,
+        "destPhotoStructs": [
+            {"photoFullFilename": "Tokyo1.jpg", "dateTime": "2023-08-23 at 12:40:37"},
+            {"photoFullFilename": "Tokyo2.jpg", "dateTime": "2023-08-24 at 18:32:58"},
+            {"photoFullFilename": "Tokyo3.jpg", "dateTime": "2023-08-25 at 19:38:52"}
+        ],
+        "covid":
+        {
+            "checkTime": "2024-04-24 at 21:56:24",
+            "activeCases": "10,409",
+            "country": "Japan",
+            "lastUpdate": "2020-05-04 06:58",
+            "newCases": "",
+            "newDeaths": "",
+            "totalCases": "14,877",
+            "totalDeaths": "487",
+            "totalRecovered": "3,981"
+        },
+        "places":
+        [
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 35.6925835,
+                    "lng": 139.6911889
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Hilton Tokyo",
+                "photo_reference": "ATplDJZVnWmlGUYjk7akO7HQQvxXk04p7YVMwN88iGMYCnWCo3Qte-26joU6DDRL8_8XZMkxoK-PxA7nQ0B_0aEaIoy4RV7QyCCne6sayp8YA8iJ7Q9baZ0sFRm7Unzi8U-F5QNe0l0Jt0_eyZn86ezG0Vf8QwDn00EIHOJvsn2xLFQSeIk1",
+                "price_level": -1,
+                "rating": 4.2,
+                "user_ratings_total": 7795,
+                "vicinity": "6-chōme-6-2 Nishishinjuku, Shinjuku City"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 35.6944422,
+                    "lng": 139.7043425
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Citadines Central Shinjuku Tokyo",
+                "photo_reference": "ATplDJaRS-Ry3BNiecXr3hT9wI9VWMegWLLhZSLGvEc4EWTrrGUwBn7ooxPBjAnO2QuJjivqoES1IWNDRXcS9zZgN1CXOfjCe8A78Jr17vfV0iLcz1EJcVzcyy2q6bfNyFYZrTqDvnATwF22innWRjFvWb-X5Obxof0tCxmS9n9GFnikGfhq",
+                "price_level": -1,
+                "rating": 4.2,
+                "user_ratings_total": 1371,
+                "vicinity": "1-chōme-2-9 Kabukichō, Shinjuku City"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 35.6692153,
+                    "lng": 139.7679189
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "name": "Kabuki-za",
+                "photo_reference": "ATplDJbBbT6yLeDRUCUkllndHiDWNCTgfvBZ6pSzC2UDB8g4Kaw2VgWJgtwDdu0QSlaTzOH7tblzHMtPbetTXgyoyMWDaLF-GVC1E1f9olwXvzqEo2c9bCVRcVkWJnbgoixojRqwbiL4WjXx4jQ2-DHWsVS-Q3ZP-8kHnUSTyYI5Z6ievFhl",
+                "price_level": -1,
+                "rating": 4.3,
+                "user_ratings_total": 9634,
+                "vicinity": "4-chōme-12-15 Ginza, Chuo City"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 35.6656277,
+                    "lng": 139.7220659
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cemetery_grave-71.png",
+                "name": "Aoyama Cemetery",
+                "photo_reference": "ATplDJbTlXUA16Se85C6uoS_8A0AT7jWb3nTmPDsFVw7X3HRsaAH7NJRrE46TtpxHjBGfHMCgTvfBO6EkApr5qY1BSY-CKFbG_FWWbJInP6kC8Ugfcx0xosfvsOLLvth4GQ4fZefcnhmY6GQIk1WKxRBegNsZiF-voUeqvBf1Uv-dHaeoYE1",
+                "price_level": -1,
+                "rating": 4.4,
+                "user_ratings_total": 269,
+                "vicinity": "2-chōme-32-2 Minamiaoyama, Minato City"
+            }
+        ]
+    },
+    {
+        "id": 3712261,
+        "wikiDataId": "Q8646",
+        "city": "Hong Kong",
+        "name": "Hong Kong",
+        "country": "Hong Kong",
+        "countryCode": "HK",
+        "latitude": 22.278333333,
+        "longitude": 114.158611111,
+        "population": 7413070,
+        "destPhotoStructs": [
+            {"photoFullFilename": "HongKong1.jpg", "dateTime": "2024-03-08 at 9:25:48"},
+            {"photoFullFilename": "HongKong2.jpg", "dateTime": "2024-03-09 at 12:22:51"},
+            {"photoFullFilename": "HongKong3.jpg", "dateTime": "2024-03-10 at 16:57:29"}
+        ],
+        "covid":
+        {
+            "checkTime": "2024-04-24 at 21:56:24",
+            "activeCases": "137",
+            "country": "Hong Kong",
+            "lastUpdate": "2020-04-29 19:40",
+            "newCases": "+1",
+            "newDeaths": "",
+            "totalCases": "1,041",
+            "totalDeaths": "4",
+            "totalRecovered": "900"
+        },
+        "places":
+        [
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 22.2803881,
+                    "lng": 114.1559798
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "name": "The Foreign Correspondents’ Club, Hong Kong",
+                "photo_reference": "ATplDJZdKh3289vWMorCoJZTV7uhiGnVIFKBgraPDUcOLyAZC3Wjoje1EJaYFt7Zsp7h_R2RPsXjCGJvpvIrSmy0Yd4c_nWqkXteKD5KT5FqYLKGXwpWY_gqw_mrHI6x3F5FLd7n9eMY7k27AqqFalupoksPzXyIz0_oW0kkRrj2Wl-u3q_L",
+                "price_level": -1,
+                "rating": 4.4,
+                "user_ratings_total": 653,
+                "vicinity": "North, 2 Lower Albert Road, Central"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 22.2541596,
+                    "lng": 114.2072313
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+                "name": "Tai Tam Country Park",
+                "photo_reference": "ATplDJYO1qZDcgxbi6suoS6b8vmrDqSKgp6a-I1K_AGuNXfPptGEm6aHzwECDeNdKR-iC56738vBUVYfCpAHftS_JP2E8YFZPX8ciHtBoQCQqzzSPZyz7XeCZW2ASXfGgbF-_YhgqQx-x7Vg83pz30ujPBNXSeugdwhsyxYT00PacBFt6BhM",
+                "price_level": -1,
+                "rating": 4.4,
+                "user_ratings_total": 156,
+                "vicinity": "Tai Tam"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 22.280489,
+                    "lng": 114.15634
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Mini Central",
+                "photo_reference": "ATplDJZMNi08x3CLEK5eJHp5vQs5qeMZ2FTykVrG8ccYKQ6Wvx5VGJLpQqkuNSUtqPHMhvVOEGQCzeRQQaLqsI_lWEU4lipVoR9TITMe5y8d7FnP7lcJFVJdroaIJMpju0BXLYYXkqlkRNLIeoXZd19v-Z8vWFBW9K9ru3uu9KrTliaGnSoy",
+                "price_level": -1,
+                "rating": 3.3,
+                "user_ratings_total": 1144,
+                "vicinity": "38 Ice House Street, Central"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 22.2783586,
+                    "lng": 114.1711064
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                "name": "Wharney Hotel",
+                "photo_reference": "ATplDJYrqENLBoTczvK_-DMjpSHWw-GY24hEjKiHyYFS49Z00pLoQQMsGJ1RX7J4_DH6fnCCvRsE79c1Oww5gaB7IM2vVZjRpZceGl9_MdP67LCzZyY9cYDCsTFrQpf9vA1E0ltTt2pzPR-QnCnhbDucD4zk2HiVxEUiH_TaIZthZCO6xufl",
+                "price_level": -1,
+                "rating": 3.8,
+                "user_ratings_total": 1328,
+                "vicinity": "57-73號 Lockhart Road, Wan Chai"
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "location": {
+                    "lat": 22.313813,
+                    "lng": 114.206151
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/airport-71.png",
+                "name": "kai tak airport",
+                "photo_reference": "ATplDJawkn-KV2MTbBTmt9geyFVioNVesj0D8ykY6iZqBrvEKzduZUDltZMG6qO0typLVVx-lnLbIDm1EyGdN7Q0BYARA015X-bp6T1Ak9cLHDejtCdMk0MfDllqLexg1fuSSphwvxN3p_2sAhnPOGSBTLx6TyxCPJ1Ey34Cw32zdZqpXlID",
+                "price_level": -1,
+                "rating": 3.8,
+                "user_ratings_total": 29,
+                "vicinity": "22°18'49. 114°12'22., 1"
+            }
+        ]
+    }
+]

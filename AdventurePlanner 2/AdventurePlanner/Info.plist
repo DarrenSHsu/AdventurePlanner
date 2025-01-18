@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>AdventurePlanner app needs to access your camera so that you can take a photo</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>AdventurePlanner app needs to access your Media Library so that you can pick a photo from it.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Speech Recognition is used to convert your speech into text.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone is used to record your voice to create Voice Notes and to record your speech so that it can be converted to text.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Face ID or Touch ID is used to authenticate you as the real user of the app</string>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIImageName</key>
+		<string>LaunchImage</string>
+	</dict>
+</dict>
+</plist>
